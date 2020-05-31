@@ -1,6 +1,6 @@
 {
-    "Indirizzo": "",
-    "Password": "",
-    "SMTP Server": "",
-    "Porta SMTP": ""
+    "Indirizzo": "nicola.moro@live.it",
+    "Password": "MicrosoftSecurity231294",
+    "SMTP Server": "Office365.smtp.com",
+    "Porta SMTP": "586"
 }
